@@ -1,0 +1,18 @@
+flamengo = ["Rossi", "Varela", "L. Pereira", "F. Bruno", "A. Sandro", "Pulgar","Gerson (C)", "De La Cruz", "Arrascaeta", "L. Araújo", "Pedro", "Tite"]
+
+print(flamengo[0].center(35))
+print()
+print()
+print(flamengo[1], flamengo[2], flamengo[3], flamengo[4])
+print()
+print()
+print(flamengo[5].center(20), flamengo[6])
+print()
+print()
+print(flamengo[7].center(13), flamengo[8].center(30))
+print()
+print()
+print(flamengo[9].center(20), flamengo[10].center(10))
+print()
+print()
+print("Téc.:", flamengo[11])
