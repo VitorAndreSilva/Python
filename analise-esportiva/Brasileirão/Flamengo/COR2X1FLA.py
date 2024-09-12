@@ -1,4 +1,4 @@
-pip install requests pandas
+# pip install requests pandas
 
 import requests #requisiçoes http // get, post, put, delete
 import pandas as pd #biblioteca de manipulação de dados
